@@ -13,6 +13,7 @@ window.onload = function() {
 		lbl.moveTo(45, 45);
 		lbl.text = "시간은 금이다!";
 		lbl.color = "blue";
+		lbl.font = "28px '맑은 고딕', 'Verdana'";
 		scene.addChild(lbl); // 씬에 추가함
 	};
 	
